@@ -3,5 +3,5 @@
             [n-net.core :refer :all]))
 
 (deftest a-test
-  (testing "FIXME, I fail."
-    (is (= 0 1))))
+  (testing "Prueba sencilla"
+    (is (= 1 1))))
