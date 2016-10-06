@@ -1,8 +1,5 @@
 (defproject n-net "0.0.1-SNAPSHOT"
   :description "Biblioteca de Redes Neuronales"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"
-            :distribution :repo}
   :dependencies [[org.clojure/clojure "1.8.0"]]
   :main ^:skip-aot n-net.core
   :target-path "target/%s"
